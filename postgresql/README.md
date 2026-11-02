@@ -6,6 +6,11 @@
 
 Файлы курса размещаются в [`docs/`](docs/). Ссылки на новые материалы добавляются в этот README.
 
+## Занятия
+
+- [SELECT и NULL — повторная попытка](lessons/2026-10-26-select-null/README.md)
+  - [Рабочий SQL-файл](lessons/2026-10-26-select-null/task.sql)
+
 ## Ссылки
 
 - [Общие правила обучения в Notion](https://app.notion.com/p/3feb37726d4f813ca71be9561262e3d8)
